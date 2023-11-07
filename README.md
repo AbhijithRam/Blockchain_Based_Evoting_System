@@ -1,3 +1,3 @@
-Blockchain based voting system
+Blockchain-based voting system
 
-This is my attempt at making a election system based on blockchain
+This is my attempt at making an election system based on blockchain
