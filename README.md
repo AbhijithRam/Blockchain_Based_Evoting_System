@@ -1,2 +1,3 @@
-# Blockchain_Based_Evoting_System
-A blockchain based E voting project.
+Blockchain based voting system
+
+This is my attempt at making a election system based on blockchain
